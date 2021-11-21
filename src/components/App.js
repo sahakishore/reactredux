@@ -9,11 +9,11 @@ const App = ()=> {
   return (
     <div className="row">
 
-      <div className="col-md-6 mr-md-4" style={{backgroundColor:'red'}}>
+      <div className="col-md-6 mr-md-4" style={{backgroundColor:'#e704a8'}}>
      <SongList/>
       </div>
 
-      <div className="col-md-6" style={{backgroundColor:'blue'}}>
+      <div className="col-md-6" style={{backgroundColor:'#00ff37'}}>
         <SongDetails/>
       </div>
 
